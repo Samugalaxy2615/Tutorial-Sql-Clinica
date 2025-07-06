@@ -167,12 +167,5 @@ Una vez implementado:
 * Al cerrar y volver a abrir la app, los datos seguirán disponibles.
 * Las pantallas de consulta, historial y listado funcionarán sin depender de archivos `.dat`.
 
----
 
-## Recomendación para subir a GitHub
 
-Colocar este tutorial en el archivo `README.md` de la raíz del repositorio, ya que usa sintaxis Markdown.
-
----
-
-## Fin del tutorial
